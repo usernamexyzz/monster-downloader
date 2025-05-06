@@ -1,0 +1,21 @@
+{
+  "name": "Monster Video Downloader",
+  "short_name": "Monster Downloader",
+  "description": "Download public videos from YouTube, Instagram, and more for free – fast and premium!",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/icon-192.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon-512.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
